@@ -1,79 +1,77 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Ariane Silvestre | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Ariane Silvestre, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Ariane Silvestre",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
-    "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "name": "Ariane Silvestre",
+    "headline": "Estudante de Desenvolvimento Web",
+    "photo": "assets/images/foto.png",
+    "photoAlt": "Foto profissional de Ariane Silvestre",
+    "summary": "Sou estudante de Engenharia de Software e do ProaProfissão, com interesse em tecnologia e desenvolvimento web. Tenho experiência em desenvolvimento web e já participei de projetos que transformaram ideias em soluções digitais. Busco evoluir constantemente minhas habilidades através da aprendizagem contínua, projetos e novos desafios, construindo uma trajetória profissional focada em crescimento e criação de soluções digitais.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
-    },
-    {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
-    },
-    {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "arianesilvestremaira73@example.com",
+      "url": "mailto:arianesilvestremaira73@example.com",
+      "icon": "assets/images/email.svg"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Desenvolvedora Full Stack",
+      "description": "Desenvolver competências técnicas em todo o ciclo de desenvolvimento de software, criando aplicações web eficientes, escaláveis e bem estruturadas. Meu objetivo é compreender a integração entre Front-end, Back-end e banco de dados, aplicando boas práticas de engenharia de software para entregar soluções confiáveis, seguras e centradas nas necessidades dos usuários.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Comunicação eficaz para colaborar com equipes e compartilhar conhecimentos.",
+        "Organização para gerenciar tarefas e prioridades.",
+        "Proatividade para buscar aprendizado contínuo",
+        "Adaptabilidade diante de novas tecnologias e desafios.",
+        "Trabalho em equipe para desenvolvimento colaborativo."
       ],
       "roadmap": [
         "HTML semantico",
         "CSS responsivo",
         "JavaScript",
         "Git e GitHub",
-        "Acessibilidade"
+        "Acessibilidade",
+        "Lógica de Programação",
+        "React",
+        "Node.js",
+        "SQL/NoSQL"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Engenharia de Software",
+      "description": "Projetar e desenvolver sistemas de software escaláveis, seguros e eficientes, aplicando princípios de engenharia de software para criar soluções inovadoras que atendam às necessidades dos usuários e das organizações.",
       "softSkills": [
         "Responsabilidade sobre entregas e prazos combinados.",
         "Colaboracao em revisoes de codigo e planejamento.",
         "Capacidade de explicar escolhas tecnicas para diferentes publicos."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "Engenharia de Software",
+        "Arquitetura de Sistemas",
+        "Cloud Computing",
+        "DevOps",
+        "Segurança da Informação",
+        "Metodologias Ágeis (Scrum e Kanban)",
+        "Inteligência Artificial"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Analista/Cientista de Dados",
+      "description": "Transformar dados em informações estratégicas por meio da análise, interpretação e modelagem de dados, contribuindo para a tomada de decisões e para a geração de valor nas organizações. Busco desenvolver competências em análise estatística, visualização de dados e tecnologias voltadas à ciência de dados, utilizando dados como ferramenta para inovação e resolução de problemas.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Atenção aos detalhes na análise, validação e interpretação dos dados.",
+        "Colaboração interdisciplinar para atuar em conjunto com equipes técnicas e áreas de negócio.",
+        "Resolução de problemas complexos com base em evidências e métricas.",
+        "Adaptabilidade e aprendizado contínuo diante da evolução constante das tecnologias e metodologias analíticas."
+
       ],
-      "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
-      ]
+      "roadmap": ["SQL", "Python", "Banco de Dados", "Power BI", "Inteligência Artificial", "Estatística", "Machine Learning"]
     }
   ],
   "skillGroups": [
@@ -81,35 +79,46 @@
       "title": "Frontend",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
-          "level": 85
+          "name": "HTML/CSS",
+          "level": 95
+        },
+        {
+          "name": "JavaScript",
+          "level": 75
         },
         {
           "name": "React",
           "level": 70
+        },
+        {
+          "name": "UI/UX Design",
+          "level": 90
         }
       ]
     },
     {
-      "title": "Backend e dados",
+      "title": "Backend",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "Python",
+          "level": 60
         },
         {
-          "name": "SQL",
-          "level": 60
+          "name": "Java",
+          "level": 55
+        },
+        {
+          "name": "Node.js",
+          "level": 50
+        },
+        {
+          "name": "WordPress",
+          "level": 65
         }
       ]
     }
   ],
-  "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
-  ],
+  "otherSkills": ["Figma", "MongoDB", "Code Review", "Metodologias Ágeis", "Git"],
   "languages": [
     {
       "name": "Portugues",
@@ -121,7 +130,7 @@
     },
     {
       "name": "Espanhol",
-      "level": "Profissional"
+      "level": "Nativo"
     }
   ]
 }
